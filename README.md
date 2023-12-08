@@ -4,7 +4,9 @@ Hi 👋 My name is José Nogueira
 Senior Full-Stack Developer
 --------------------------
 
-I am the type of person who loves to put in proof what I see in mind! Striving to become successful at his job! With experience in Full-Stack Development. I maintain a healthy balance between functionality and visual impact in all my work. I believe every piece of design, can be a work of art. I love my job and I enjoy each new project I am in. Feel free to have a look at my portfolio and don't hesitate to contact me if you think I can be helpful to you.
+I am the type of person who loves to put in proof what I see in mind and striving to become successful at his job!
+As I am a curiuous person and always like to know what's behind the scenes I started learned programming by myself, because the knowledge that I gained at school wasn ́t enough
+With 7+ years of experience in Front/Back-End development I have gained experience in React, Redux, TypeScript, NodeJS and GraphQL
 
 * 🌍  I'm based in Portugal
 * ✉️  You can contact me at [josenogueira95@hotmail.com](mailto:josenogueira95@hotmail.com)
