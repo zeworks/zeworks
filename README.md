@@ -13,9 +13,6 @@ With 7+ years of experience in Front/Back-End development I have gained experien
 * 🚀  I'm currently working on [7EGEND](http://www.7egend.cr/)
 * 🧠  I'm learning GraphQL
 
-<a href="https://www.github.com/zeworks" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/zeworks?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 <p align="left">
