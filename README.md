@@ -1,7 +1,7 @@
 Hi 👋 My name is José Nogueira
 ==============================
 
-Senior Full-Stack Developer
+Senior Front-End Engineer
 --------------------------
 
 I am the type of person who loves to put in proof what I see in mind and striving to become successful at his job!
